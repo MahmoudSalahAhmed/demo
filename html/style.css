@@ -1,0 +1,20 @@
+.bg-yellow{
+    background-color: rgb(184, 184, 53);
+}
+.bg-red{
+    background-color: rgb(247, 37, 37);
+}
+.d-flex{
+    display: flex;
+}
+.rect-36{
+    width: 36px;
+    height: 36px;
+}
+.rect-48{
+    width: 48px;
+    height: 48px;
+}
+.circle{
+    border-radius: 50%;
+}

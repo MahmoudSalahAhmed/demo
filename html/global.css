@@ -1,3 +1,290 @@
-p{
+@font-face {
+    font-family: "AMPLESOFT-MEDIUM";
+    src: url(assets/fonts/AmpleSoft-Pro/AMPLESOFTPRO-MEDIUM.TTF);
+}
+@font-face {
+    font-family: "AMPLESOFT-BOLD";
+    src: url(assets/fonts/AmpleSoft-Pro/AMPLESOFTPRO-BOLD.TTF);
+}
+
+@font-face {
+    font-family: "CAIRO-MEDIUM";
+    src: url(assets/fonts/Cairo/Cairo-Regular.ttf);
+}
+@font-face {
+    font-family: "CAIRO-BOLD";
+    src: url(assets/fonts/Cairo/Cairo-Bold.ttf);
+}
+
+body {
+    font-family: "AMPLESOFT-MEDIUM", "CAIRO-MEDIUM";
+}
+.f-bold{
+    font-family: "AMPLESOFT-BOLD", "CAIRO-BOLD";
+}
+
+p {
     margin-bottom: unset;
+}
+
+/* ////////////////////////// */
+.c-112 {
+    color: #112a4e;
+}
+
+.c-blue {
+    color: #03a8ff;
+}
+
+.c-darkblue {
+    color: #005d8e !important;
+}
+
+.c-green {
+    color: #32cc3e;
+}
+
+.c-gray {
+    color: #afb6cc;
+}
+
+.c-g70 {
+    color: #707070;
+}
+
+.c-yellow {
+    color: #ffc400;
+}
+
+.c-red {
+    color: #a92a2b !important;
+}
+
+.c-white {
+    color: #fff !important;
+}
+
+.c-b00 {
+    color: #004c84 !important;
+}
+
+
+
+/* //////////////// */
+.font-9 {
+    font-size: 9px;
+}
+
+.font-10 {
+    font-size: 10px;
+}
+
+.font-11 {
+    font-size: 11px;
+}
+
+.font-12 {
+    font-size: 12px;
+}
+
+.font-13 {
+    font-size: 13px;
+}
+
+.font-14 {
+    font-size: 14px;
+}
+
+.font-15 {
+    font-size: 15px;
+}
+
+.font-16 {
+    font-size: 16px;
+}
+
+.font-17 {
+    font-size: 17px;
+}
+
+.font-18 {
+    font-size: 18px;
+}
+
+.font-19 {
+    font-size: 19px;
+}
+
+.font-20 {
+    font-size: 20px;
+}
+
+.font-22 {
+    font-size: 22px;
+}
+
+.font-24 {
+    font-size: 24px;
+}
+
+.font-25 {
+    font-size: 25px;
+}
+
+.font-28 {
+    font-size: 28px;
+}
+
+.font-30 {
+    font-size: 30px;
+}
+
+.font-32 {
+    font-size: 30px;
+}
+
+.font-40 {
+    font-size: 40px;
+}
+
+.font-44 {
+    font-size: 44px;
+}
+
+
+.rect-150 {
+    width: 150px;
+    height: 150px;
+}
+
+.rect-100 {
+    width: 100px;
+    height: 100px;
+}
+
+.rect-92 {
+    width: 92px;
+    height: 92px;
+}
+
+.rect-72 {
+    width: 72px;
+    height: 72px;
+}
+
+.rect-64 {
+    width: 64px;
+    height: 64px;
+}
+
+.rect-50 {
+    width: 50px;
+    height: 50px;
+}
+
+.rect-48 {
+    width: 48px;
+    height: 48px;
+}
+
+.rect-45 {
+    width: 45px;
+    height: 45px;
+}
+
+.rect-44 {
+    width: 44px;
+    height: 44px;
+}
+
+.rect-40 {
+    width: 40px;
+    height: 40px;
+}
+
+.rect-36 {
+    width: 36px;
+    height: 36px;
+}
+
+.rect-32 {
+    width: 32px;
+    height: 32px;
+}
+
+.rect-30 {
+    width: 30px;
+    height: 30px;
+}
+
+.rect-28 {
+    width: 28px;
+    height: 28px;
+}
+
+.rect-24 {
+    width: 24px;
+    height: 24px;
+}
+
+.rect-22 {
+    width: 22px;
+    height: 22px;
+}
+
+.rect-20 {
+    width: 20px;
+    height: 20px;
+}
+
+.rect-16 {
+    width: 16px;
+    height: 16px;
+}
+
+.rect-12 {
+    width: 12px;
+    height: 12px;
+}
+
+.rect-11 {
+    width: 11px;
+    height: 11px;
+}
+
+.rect-8 {
+    width: 8px;
+    height: 8px;
+}
+
+.circle {
+    border-radius: 50%;
+}
+
+.radius-16 {
+    border-radius: 16px;
+}
+
+.radius-12 {
+    border-radius: 12px;
+}
+
+.radius-8 {
+    border-radius: 8px;
+}
+
+.radius-6 {
+    border-radius: 6px;
+}
+
+.radius-5 {
+    border-radius: 5px;
+}
+
+.radius-4 {
+    border-radius: 4px;
+}
+
+.radius-2 {
+    border-radius: 2px;
 }
